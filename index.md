@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Bootstrapping | https://jkw552403.github.io/
 tagline: 
 ---
 {% include JB/setup %}
@@ -18,7 +18,7 @@ tagline:
 
     In general parlance, bootstrapping usually refers to the starting of a self-sustaining process that is supposed to proceed without external input.
 
-天生硬頸的我真是很喜歡這個詞。這個詞在傳統CS的領域會被縮寫成`booting`，而統計上也是個實用的技巧，在不同領域上意思都不太一樣，而其實背後含義都是相同的！
+天生硬頸的我真是很喜歡這個詞。這個詞在傳統CS的領域會被縮寫成**booting**，而統計上也是個實用的技巧，在不同領域上意思都不太一樣，而其實背後含義都是相同的！
 
 ##會有什麼內容
 基本上是技術上、研究相關的知識或者是讀書心得。
