@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrapping | https://jkw552403.github.io/
+title: Bootstrapping!
 tagline: 
 ---
 {% include JB/setup %}
